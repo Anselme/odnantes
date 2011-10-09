@@ -6,7 +6,7 @@ ul#communes {
 	list-style: none;
 	background: url(../img/communes.png) no-repeat 0 0;
 	position: relative;
-	width: 600px;
+	width: 572px;
 	height: 450px;
 	margin: 0;
 	padding: 0;
@@ -93,7 +93,7 @@ ul#communes li#mauves-sur-loire a:hover {
 }
 
 ul#communes li#nantes a:hover {
-	background-position: 0px 0px;
+	background-position: 0px -1355px;
 }
 
 ul#communes li#orvault a:hover {
@@ -225,10 +225,10 @@ ul#communes li#vertou a:hover {
 }
 
 #nantes {
-    width: px;
-    height: px;
-    top: px;
-    left: px;
+    width: 173px;
+    height: 173px;
+    top: 95px;
+    left: 275px;
 }
 
 #orvault {
