@@ -1,0 +1,288 @@
+ul#communes {
+	list-style: none;
+	background: url(../img/communes.png) no-repeat 0 0;
+	position: relative;
+	width: 600px;
+	height: 450px;
+	margin: 0;
+	padding: 0;
+}
+
+ul#communes li {
+	border: 1px solid #000;
+	position: absolute;
+}
+
+ul#continents li a{
+	display: block;
+	height: 100%;
+	text-indent: -9000px;
+}
+
+ul#continents li a:hover {
+	background: url(images/map.png) no-repeat 0 0;
+}
+
+ul#continents li#bassegoulaine a:hover {
+	background-position: 0px 0px;
+}
+
+ul#continents li#bouaye a:hover {
+	background-position: 0px 0px;
+}
+
+ul#continents li#bouguenais a:hover {
+	background-position: 0px 0px;
+}
+
+ul#continents li#brains a:hover {
+	background-position: 0px 0px;
+}
+
+ul#continents li#carquefou a:hover {
+	background-position: 0px 0px;
+}
+
+ul#continents li#coueron a:hover {
+	background-position: 0px 0px;
+}
+
+ul#continents li#indre a:hover {
+	background-position: 0px 0px;
+}
+
+ul#continents li#chapelle-sur-erdre a:hover {
+	background-position: 0px 0px;
+}
+
+ul#continents li#montagne a:hover {
+	background-position: 0px 0px;
+}
+
+ul#continents li#pellerin a:hover {
+	background-position: 0px 0px;
+}
+
+ul#continents li#sorinieres a:hover {
+	background-position: 0px 0px;
+}
+
+ul#continents li#mauves-sur-loire a:hover {
+	background-position: 0px 0px;
+}
+
+ul#continents li#nantes a:hover {
+	background-position: 0px 0px;
+}
+
+ul#continents li#orvault a:hover {
+	background-position: 0px 0px;
+}
+
+ul#continents li#reze a:hover {
+	background-position: 0px 0px;
+}
+
+ul#continents li#saint-aignan-grand-lieu a:hover {
+	background-position: 0px 0px;
+}
+
+ul#continents li#saint-herblain a:hover {
+	background-position: 0px 0px;
+}
+
+ul#continents li#saint-jean-de-boisseau a:hover {
+	background-position: 0px 0px;
+}
+
+ul#continents li#saint-leger-les-vignes a:hover {
+	background-position: 0px 0px;
+}
+
+ul#continents li#saint-sebastien-sur-loire a:hover {
+	background-position: 0px 0px;
+}
+
+ul#continents li#sainte-luce a:hover {
+	background-position: 0px 0px;
+}
+
+ul#continents li#sautron a:hover {
+	background-position: 0px 0px;
+}
+
+ul#continents li#thouare a:hover {
+	background-position: 0px 0px;
+}
+
+ul#continents li#vertou a:hover {
+	background-position: 0px 0px;
+}
+
+#bassegoulaine {
+    width: px;
+    height: px;
+    top: px;
+    left: px;
+}
+
+#bouaye {
+    width: px;
+    height: px;
+    top: px;
+    left: px;
+}
+
+#bouguenais {
+    width: px;
+    height: px;
+    top: px;
+    left: px;
+}
+
+#brains {
+    width: px;
+    height: px;
+    top: px;
+    left: px;
+}
+
+#carquefou {
+    width: px;
+    height: px;
+    top: px;
+    left: px;
+}
+
+#coueron {
+    width: px;
+    height: px;
+    top: px;
+    left: px;
+}
+
+#indre {
+    width: px;
+    height: px;
+    top: px;
+    left: px;
+}
+
+#chapelle-sur-erdre {
+    width: px;
+    height: px;
+    top: px;
+    left: px;
+}
+
+#montagne {
+    width: px;
+    height: px;
+    top: px;
+    left: px;
+}
+
+#pellerin {
+    width: px;
+    height: px;
+    top: px;
+    left: px;
+}
+
+#sorinieres {
+    width: px;
+    height: px;
+    top: px;
+    left: px;
+}
+
+#mauves-sur-loire {
+    width: px;
+    height: px;
+    top: px;
+    left: px;
+}
+
+#nantes {
+    width: px;
+    height: px;
+    top: px;
+    left: px;
+}
+
+#orvault {
+    width: px;
+    height: px;
+    top: px;
+    left: px;
+}
+
+#reze {
+    width: px;
+    height: px;
+    top: px;
+    left: px;
+}
+
+#saint-aignan-grand-lieu {
+    width: px;
+    height: px;
+    top: px;
+    left: px;
+}
+
+#saint-herblain {
+    width: px;
+    height: px;
+    top: px;
+    left: px;
+}
+
+#saint-jean-de-boisseau {
+    width: px;
+    height: px;
+    top: px;
+    left: px;
+}
+
+#saint-leger-les-vignes {
+    width: px;
+    height: px;
+    top: px;
+    left: px;
+}
+
+#saint-sebastien-sur-loire {
+    width: px;
+    height: px;
+    top: px;
+    left: px;
+}
+
+#sainte-luce {
+    width: px;
+    height: px;
+    top: px;
+    left: px;
+}
+
+#sautron {
+    width: px;
+    height: px;
+    top: px;
+    left: px;
+}
+
+#thouare {
+    width: px;
+    height: px;
+    top: px;
+    left: px;
+}
+
+#vertou {
+    width: px;
+    height: px;
+    top: px;
+    left: px;
+}
