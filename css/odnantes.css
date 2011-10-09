@@ -13,109 +13,126 @@ ul#communes li {
 	position: absolute;
 }
 
-ul#continents li a{
+ul#communes li a{
 	display: block;
 	height: 100%;
 	text-indent: -9000px;
 }
 
-ul#continents li a:hover {
-	background: url(images/map.png) no-repeat 0 0;
+ul#communes li a span{
+    display: none;
 }
 
-ul#continents li#bassegoulaine a:hover {
+ul#communes li a:hover span{
+    display: block;
+    padding: 5px;
+	width: 150px;
+	background: #000;
+	position: relative;
+	top: 50%;
+	font: 11px Arial, Helvetica, sans-serif;
+	opacity: .75;
+	filter:alpha(opacity=75);
+	color: #FFF;
+}
+
+ul#communes li a:hover {
+	background: url(../img/communes.png) no-repeat 0 0;
+}
+
+ul#communes li#bassegoulaine a:hover {
 	background-position: 0px 0px;
 }
 
-ul#continents li#bouaye a:hover {
+ul#communes li#bouaye a:hover {
 	background-position: 0px 0px;
 }
 
-ul#continents li#bouguenais a:hover {
+ul#communes li#bouguenais a:hover {
 	background-position: 0px 0px;
 }
 
-ul#continents li#brains a:hover {
+ul#communes li#brains a:hover {
 	background-position: 0px 0px;
 }
 
-ul#continents li#carquefou a:hover {
+ul#communes li#carquefou a:hover {
 	background-position: 0px 0px;
 }
 
-ul#continents li#coueron a:hover {
+ul#communes li#coueron a:hover {
 	background-position: 0px 0px;
 }
 
-ul#continents li#indre a:hover {
+ul#communes li#indre a:hover {
 	background-position: 0px 0px;
 }
 
-ul#continents li#chapelle-sur-erdre a:hover {
+ul#communes li#chapelle-sur-erdre a:hover {
 	background-position: 0px 0px;
 }
 
-ul#continents li#montagne a:hover {
+ul#communes li#montagne a:hover {
 	background-position: 0px 0px;
 }
 
-ul#continents li#pellerin a:hover {
+ul#communes li#pellerin a:hover {
 	background-position: 0px 0px;
 }
 
-ul#continents li#sorinieres a:hover {
+ul#communes li#sorinieres a:hover {
 	background-position: 0px 0px;
 }
 
-ul#continents li#mauves-sur-loire a:hover {
+ul#communes li#mauves-sur-loire a:hover {
 	background-position: 0px 0px;
 }
 
-ul#continents li#nantes a:hover {
+ul#communes li#nantes a:hover {
 	background-position: 0px 0px;
 }
 
-ul#continents li#orvault a:hover {
+ul#communes li#orvault a:hover {
 	background-position: 0px 0px;
 }
 
-ul#continents li#reze a:hover {
+ul#communes li#reze a:hover {
 	background-position: 0px 0px;
 }
 
-ul#continents li#saint-aignan-grand-lieu a:hover {
+ul#communes li#saint-aignan-grand-lieu a:hover {
 	background-position: 0px 0px;
 }
 
-ul#continents li#saint-herblain a:hover {
+ul#communes li#saint-herblain a:hover {
 	background-position: 0px 0px;
 }
 
-ul#continents li#saint-jean-de-boisseau a:hover {
+ul#communes li#saint-jean-de-boisseau a:hover {
 	background-position: 0px 0px;
 }
 
-ul#continents li#saint-leger-les-vignes a:hover {
+ul#communes li#saint-leger-les-vignes a:hover {
 	background-position: 0px 0px;
 }
 
-ul#continents li#saint-sebastien-sur-loire a:hover {
+ul#communes li#saint-sebastien-sur-loire a:hover {
 	background-position: 0px 0px;
 }
 
-ul#continents li#sainte-luce a:hover {
+ul#communes li#sainte-luce a:hover {
 	background-position: 0px 0px;
 }
 
-ul#continents li#sautron a:hover {
+ul#communes li#sautron a:hover {
 	background-position: 0px 0px;
 }
 
-ul#continents li#thouare a:hover {
+ul#communes li#thouare a:hover {
 	background-position: 0px 0px;
 }
 
-ul#continents li#vertou a:hover {
+ul#communes li#vertou a:hover {
 	background-position: 0px 0px;
 }
 
