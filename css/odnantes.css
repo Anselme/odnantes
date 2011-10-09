@@ -1,3 +1,7 @@
+.communes_details {
+   display: none;
+}
+
 ul#communes {
 	list-style: none;
 	background: url(../img/communes.png) no-repeat 0 0;
