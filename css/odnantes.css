@@ -13,20 +13,19 @@ ul#communes {
 }
 
 ul#communes li {
-	border: 1px solid #000;
 	position: absolute;
 }
 
 ul#communes li a{
 	display: block;
 	height: 100%;
-	text-indent: -9000px;
+    text-decoration: none;
 }
 
 ul#communes li a span{
     display: none;
 }
-/*
+
 ul#communes li a:hover span{
     display: block;
     padding: 5px;
@@ -39,25 +38,25 @@ ul#communes li a:hover span{
 	filter:alpha(opacity=75);
 	color: #FFF;
 }
-*/
+
 ul#communes li a:hover {
 	background: url(../img/communes.png) no-repeat 0 0;
 }
 
 ul#communes li#bassegoulaine a:hover {
-	background-position: -445px -1041px;
+	background-position: -443px -1041px;
 }
 
 ul#communes li#bouaye a:hover {
-	background-position: 0px 0px;
+	background-position: -213px -1112px;
 }
 
 ul#communes li#bouguenais a:hover {
-	background-position: 0px 0px;
+	background-position: -244px -940px;
 }
 
 ul#communes li#brains a:hover {
-	background-position: 0px 0px;
+	background-position: -150px -1570px;
 }
 
 ul#communes li#carquefou a:hover {
@@ -65,23 +64,19 @@ ul#communes li#carquefou a:hover {
 }
 
 ul#communes li#coueron a:hover {
-	background-position: 0px 0px;
-}
-
-ul#communes li#indre a:hover {
-	background-position: 0px 0px;
+	background-position: -74px -668px;
 }
 
 ul#communes li#chapelle-sur-erdre a:hover {
-	background-position: -339px -1770px;
+	background-position: -338px -1770px;
 }
 
 ul#communes li#montagne a:hover {
-	background-position: 0px 0px;
+	background-position: -226px -1042px;
 }
 
 ul#communes li#pellerin a:hover {
-	background-position: 0px 0px;
+	background-position: -05px -481px;
 }
 
 ul#communes li#sorinieres a:hover {
@@ -89,15 +84,15 @@ ul#communes li#sorinieres a:hover {
 }
 
 ul#communes li#mauves-sur-loire a:hover {
-	background-position: -494px -675px;
+	background-position: -493px -675px;
 }
 
 ul#communes li#nantes a:hover {
-	background-position: -330px -1580px;
+	background-position: -285px -1548px;
 }
 
 ul#communes li#orvault a:hover {
-	background-position: 0px 0px;
+	background-position: -269px -1208px;
 }
 
 ul#communes li#reze a:hover {
@@ -105,39 +100,43 @@ ul#communes li#reze a:hover {
 }
 
 ul#communes li#saint-aignan-grand-lieu a:hover {
-	background-position: 0px 0px;
+	background-position: -258px -1957px;
 }
 
 ul#communes li#saint-herblain a:hover {
-	background-position: 0px 0px;
+	background-position: -248px -1344px;
 }
 
 ul#communes li#saint-jean-de-boisseau a:hover {
-	background-position: 0px 0px;
+	background-position: -173px -805px;
 }
 
 ul#communes li#saint-leger-les-vignes a:hover {
-	background-position: 0px 0px;
+	background-position: -178px -1290px;
 }
 
 ul#communes li#saint-sebastien-sur-loire a:hover {
-	background-position: -396px -1958px;
+	background-position: -395px -1958px;
 }
 
 ul#communes li#sainte-luce a:hover {
-	background-position: -435px -1394px;
+	background-position: -433px -1394px;
 }
 
 ul#communes li#sautron a:hover {
-	background-position: 0px 0px;
+	background-position: -211px -504px;
 }
 
 ul#communes li#thouare a:hover {
-	background-position: -472px -1740px;
+	background-position: -470px -1740px;
 }
 
 ul#communes li#vertou a:hover {
-	background-position: -402px -887px;
+	background-position: -400px -887px;
+}
+
+ul#communes li#indre a:hover {
+	background-position: -230px -1495px;
 }
 
 #bassegoulaine {
@@ -164,7 +163,7 @@ ul#communes li#vertou a:hover {
 #brains {
     width: 98px;
     height: 48px;
-    top: 281px;
+    top: 282px;
     left: 149px;
 }
 
@@ -199,7 +198,7 @@ ul#communes li#vertou a:hover {
 #montagne {
     width: 32px;
     height: 41px;
-    top: 262px;
+    top: 263px;
     left: 225px;
 }
 
@@ -225,10 +224,10 @@ ul#communes li#vertou a:hover {
 }
 
 #nantes {
-    width: 100px;
-    height: 120px;
-    top: 165px;
-    left: 325px;
+    width: 162px;
+    height: 174px;
+    top: 128px;
+    left: 285px;
 }
 
 #orvault {
