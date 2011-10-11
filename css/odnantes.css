@@ -6,7 +6,7 @@ ul#communes {
 	list-style: none;
 	background: url(../img/communes.png) no-repeat 0 0;
 	position: relative;
-	width: 572px;
+	width: 600px;
 	height: 450px;
 	margin: 0;
 	padding: 0;
@@ -26,7 +26,7 @@ ul#communes li a{
 ul#communes li a span{
     display: none;
 }
-
+/*
 ul#communes li a:hover span{
     display: block;
     padding: 5px;
@@ -39,13 +39,13 @@ ul#communes li a:hover span{
 	filter:alpha(opacity=75);
 	color: #FFF;
 }
-
+*/
 ul#communes li a:hover {
 	background: url(../img/communes.png) no-repeat 0 0;
 }
 
 ul#communes li#bassegoulaine a:hover {
-	background-position: 0px 0px;
+	background-position: -445px -1041px;
 }
 
 ul#communes li#bouaye a:hover {
@@ -61,7 +61,7 @@ ul#communes li#brains a:hover {
 }
 
 ul#communes li#carquefou a:hover {
-	background-position: 0px 0px;
+	background-position: -400px -1206px;
 }
 
 ul#communes li#coueron a:hover {
@@ -89,11 +89,11 @@ ul#communes li#sorinieres a:hover {
 }
 
 ul#communes li#mauves-sur-loire a:hover {
-	background-position: 0px 0px;
+	background-position: -494px -675px;
 }
 
 ul#communes li#nantes a:hover {
-	background-position: 0px -1355px;
+	background-position: -330px -1580px;
 }
 
 ul#communes li#orvault a:hover {
@@ -121,11 +121,11 @@ ul#communes li#saint-leger-les-vignes a:hover {
 }
 
 ul#communes li#saint-sebastien-sur-loire a:hover {
-	background-position: 0px 0px;
+	background-position: -396px -1958px;
 }
 
 ul#communes li#sainte-luce a:hover {
-	background-position: 0px 0px;
+	background-position: -435px -1394px;
 }
 
 ul#communes li#sautron a:hover {
@@ -133,7 +133,7 @@ ul#communes li#sautron a:hover {
 }
 
 ul#communes li#thouare a:hover {
-	background-position: 0px 0px;
+	background-position: -472px -1740px;
 }
 
 ul#communes li#vertou a:hover {
@@ -141,10 +141,10 @@ ul#communes li#vertou a:hover {
 }
 
 #bassegoulaine {
-    width: px;
-    height: px;
-    top: px;
-    left: px;
+    width: 50px;
+    height: 84px;
+    top: 214px;
+    left: 443px;
 }
 
 #bouaye {
@@ -169,10 +169,10 @@ ul#communes li#vertou a:hover {
 }
 
 #carquefou {
-    width: px;
-    height: px;
-    top: px;
-    left: px;
+    width: 129px;
+    height: 108px;
+    top: 76px;
+    left: 400px;
 }
 
 #coueron {
@@ -218,17 +218,17 @@ ul#communes li#vertou a:hover {
 }
 
 #mauves-sur-loire {
-    width: px;
-    height: px;
-    top: px;
-    left: px;
+    width: 84px;
+    height: 88px;
+    top: 63px;
+    left: 493px;
 }
 
 #nantes {
-    width: 173px;
-    height: 173px;
-    top: 95px;
-    left: 275px;
+    width: 100px;
+    height: 120px;
+    top: 165px;
+    left: 325px;
 }
 
 #orvault {
@@ -274,17 +274,17 @@ ul#communes li#vertou a:hover {
 }
 
 #saint-sebastien-sur-loire {
-    width: px;
-    height: px;
-    top: px;
-    left: px;
+    width: 58px;
+    height: 59px;
+    top: 235px;
+    left: 395px;
 }
 
 #sainte-luce {
-    width: px;
-    height: px;
-    top: px;
-    left: px;
+    width: 54px;
+    height: 74px;
+    top: 158px;
+    left: 433px;
 }
 
 #sautron {
@@ -295,10 +295,10 @@ ul#communes li#vertou a:hover {
 }
 
 #thouare {
-    width: px;
-    height: px;
-    top: px;
-    left: px;
+    width: 70px;
+    height: 64px;
+    top: 132px;
+    left: 470px;
 }
 
 #vertou {
