@@ -5,12 +5,10 @@ $('.before_after_container').beforeAfter({
 
 });
 
-/**
-$('.details').click(function(){
+$('#communes li a').click(function(){
     src = $(this).attr("href");
     $('.communes_details').find("> img").attr('src', src);
-    $('.communes_details').show("slow");
+    $('.communes_details').fadeIn(1500);
     return false;
 });
-*/
 
