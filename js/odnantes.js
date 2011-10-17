@@ -8,7 +8,8 @@ $('.before_after_container').beforeAfter({
 $('#communes li a').click(function(){
     src = $(this).attr("href");
     $('.communes_details').find("> img").attr('src', src);
-    $('.communes_details').fadeIn(1500);
+    $('.communes_details').fadeIn("slow");
+    /*$('.communes_details').show("Size");*/
     return false;
 });
 
