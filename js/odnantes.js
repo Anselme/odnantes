@@ -13,3 +13,4 @@ $('#communes li a').click(function(){
     return false;
 });
 
+$('span.balinks > a').addClass('btn success');

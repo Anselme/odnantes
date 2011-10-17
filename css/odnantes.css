@@ -2,6 +2,9 @@ body {
     padding-top: 10px;
 }
 
+section {
+    padding-top: 30px;
+}
 
 .communes_details {
    display: none;
